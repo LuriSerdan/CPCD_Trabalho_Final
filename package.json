@@ -1,0 +1,9 @@
+{
+  "name": "blockchain-distribuida",
+  "version": "1.0.0",
+  "description": "Protótipo de Blockchain Distribuída com Processamento Paralelo",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js"
+  }
+}
